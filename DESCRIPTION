@@ -1,0 +1,15 @@
+Package: conquer.db
+Type: Package
+Title: Data package for CONQUER
+Version: 0.1.0
+Author: G.A.Bouland[aut], R.C.Slieker[aut,cre]
+Maintainer: R.C.Slieker <r.c.slieker@lumc.nl>
+Description: Data package to be used with CONQUER and CONQUER.d3
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: 
+  R (>= 3.5.0)
+Imports:
+    GenomicRanges
+RoxygenNote: 7.1.0
