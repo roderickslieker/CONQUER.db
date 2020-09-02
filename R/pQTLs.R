@@ -6,10 +6,8 @@
 #'
 #' Suhre, K., et al., Connecting genetic risk to disease end points through the human blood plasma proteome. Nature communications, 2017. 8: p. 14357-14357.
 #'
-#' Carayol, J., et al., Protein quantitative trait locus study in obesity during weight-loss identifies a leptin regulator. Nature Communications, 2017. 8(1): p. 2084.
-#'
-#'
+#' Gudmundsdottir, V et al Circulating Protein Signatures and Causal Candidates for Type 2 Diabetes Diabetes 2020 Aug; 69(8): 1843-1853.
 #'
 #' @format A [[data.frame]] object
-#' @source [pQTLs](see description)
-"pQTLs"
+#' @source [pqtls](see description)
+"pqtls"
